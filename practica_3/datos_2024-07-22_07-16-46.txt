@@ -1,0 +1,31 @@
+1. Segmento: w
+2. Manzana: w
+3. Número de predio: w
+4. Total de viviendas en el predio: 1
+5. Número de vivienda: w
+6. Ciudad o comunidad: w
+7. Dirección: w
+8. Número de puerta: w
+9. Planta o piso: w
+10. Número de departamento: w
+11. Nombre del edificio: w
+12. Bloque: w
+Tipo de vivienda: apartamento
+Foto de la vivienda: imagenes/230201 jungkook live.jfif
+Comentario adicional: wwwwwwwwwww
+Material paredes: Ladrillo, bloque de cemento, hormigón
+Revoque: Sí
+Material techos: Calamina o plancha
+Material pisos: Tierra
+Agua procedencia: Cañería
+Agua distribucion: Por cañería dentro de la vivienda
+Energia electrica: Servicio público
+Combustible cocina: Gas natural
+Disposicion basura: La depositan en el contenedor o basurero público
+Cuarto cocina: Sí
+Cuartos ocupados: 1
+Cuartos dormir: 1
+Tienen bano: Sí, usado solo para hogar
+Desague bano: A la red
+Tipo vivienda ocupacion: Propia y totalmente pagado
+Equipos: Televisor

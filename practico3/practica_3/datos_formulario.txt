@@ -1,0 +1,41 @@
+Nombre: Morros blancos
+Tipo de Vivienda: Casa
+Comentarios: SI
+Material de Paredes: SI
+Material de Pisos: SI
+Energía Eléctrica: S
+Combustible para Cocinar: IS
+Cuarto para Cocinar: IS
+Baño/Letrina: IS
+Gestión de Basura: IS
+Número de Personas: 5
+Número de Cuartos: 5
+Número de Vehículos: 5
+Internet: SI
+Teléfono: SI
+Televisión: SI
+Radio: SI
+Computadora: SI
+Servicios de Salud: SI
+Servicios Educativos: S
+Servicios de Seguridad: IS
+Agua Potable: SI
+Alcantarillado: SI
+Electricidad: SI
+Gas: S
+Transporte Público: IS
+Nombre Persona: IS
+Edad Persona: 22
+Sexo Persona: Masculino
+Estado Civil Persona: Soltero
+Nivel Educativo Persona: Superior
+Ocupación Persona: SI
+Servicios Salud Persona: SI
+Servicios Educativos Persona: S
+Servicios Seguridad Persona: IS
+Internet Persona: IS
+Teléfono Persona: IS
+Televisión Persona: IS
+Radio Persona: IS
+Computadora Persona: SI
+Edad Cumplida Persona: 18

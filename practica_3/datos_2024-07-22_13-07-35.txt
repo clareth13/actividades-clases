@@ -1,0 +1,31 @@
+1. Segmento: o
+2. Manzana: k
+3. Número de predio: k
+4. Total de viviendas en el predio: k
+5. Número de vivienda: k
+6. Ciudad o comunidad: k
+7. Dirección: k
+8. Número de puerta: k
+9. Planta o piso: k
+10. Número de departamento: k
+11. Nombre del edificio: i
+12. Bloque: i
+Tipo de vivienda: casa
+Foto de la vivienda: imagenes/CARATULAS Para VID Youtube  01.png
+Comentario adicional: kkk
+Material paredes: Ladrillo, bloque de cemento, hormigón
+Revoque: Sí
+Material techos: Calamina o plancha
+Material pisos: Tierra
+Agua procedencia: Cañería
+Agua distribucion: Por cañería dentro de la vivienda
+Energia electrica: Servicio público
+Combustible cocina: Gas natural
+Disposicion basura: La depositan en el contenedor o basurero público
+Cuarto cocina: Sí
+Cuartos ocupados: 1
+Cuartos dormir: 1
+Tienen bano: Sí, usado solo para hogar
+Desague bano: A la red
+Tipo vivienda ocupacion: Propia y totalmente pagado
+Equipos: Televisor
